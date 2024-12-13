@@ -1,5 +1,7 @@
 # Rosetta Wizard
 
+**Note** Remember you have to wait *24hours* so the hours you added will show , also use it wisely.
+
 ## Install
 
 ### Chrome based browsers
