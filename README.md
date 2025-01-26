@@ -18,7 +18,7 @@ To use the extension in a chrome-based browser, you need to:
 - run the following command in the `rosettaWizard` folder.
 
 ```bash
-$ tar xvzf ./rosettaWizard-chrome.tar.gz
+tar xvzf ./rosettaWizard-chrome.tar.gz
 ```
 
 2.
