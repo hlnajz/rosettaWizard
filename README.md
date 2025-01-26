@@ -10,14 +10,14 @@
 
 To use the extension in a chrome-based browser, you need to:
 
-- download the file `rosettaWizard-chrome.tar` from the latest release on
+- download the file `rosettaWizard-chrome.tar.gz` from the latest release on
   your machine.
 - create a folder named `rosettaWizard` somewhere on your machine to store the
   extension
 - run the following command in the `rosettaWizard` folder.
 
 ```bash
-$ tar xvzf ./rosettaWizard-chrome.tar
+$ tar xvzf ./rosettaWizard-chrome.tar.gz
 ```
 
 2.
