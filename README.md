@@ -3,9 +3,19 @@
 **Note:** Remember you have to wait *24hours* so the hours you added will show , also use it wisely.
 <br/>
 
-**Support ME On CIH BANK RIB:**
+**Support Me with a Donation on CIH BANK 🏦💙:**
+<br/>
+***Every contribution, big or small, means a lot. Thank you for your support!***
 ```bash
 3017932211013800
+```
+
+.....
+<br/>
+***Full Name***
+<br/>
+```bash
+Hamza LABBAALLI
 ```
 ## Install
 
