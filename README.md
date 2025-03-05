@@ -1,22 +1,28 @@
 # Rosetta Wizard
 
-**Note:** Remember you have to wait *24hours* so the hours you added will show , also use it wisely.
+💬 **حيت حتى حد ما كي دعمني وما كاينش ولو دعم واحد أو قليل جاني! على هاد الإكستنسيون، غادي نحيدها. إلا بغيتي تزاد ليك السوايع، تواصل معايا في واتساب: 0625259070** 💬  
+💰 \*\*\*\* 💰
+
+**Note:** Remember you have to wait _24hours_ so the hours you added will show , also use it wisely.
 <br/>
 
 **Support Me with a Donation on CIH BANK 🏦💙:**
 <br/>
-***Every contribution, big or small, means a lot. Thank you for your support!***
+**_Every contribution, big or small, means a lot. Thank you for your support!_**
+
 ```bash
 3017932211013800
 ```
 
 .....
 <br/>
-***Full Name***
+**_Full Name_**
 <br/>
+
 ```bash
 Hamza LABBAALLI
 ```
+
 ## Install
 
 ### Chrome based browsers
@@ -52,5 +58,3 @@ To add time on `fluency builder` product, you need to go to your exercises, and
 answer at least one exercise. If the add time field does not appear, it means
 that no time request was caught, you need to refresh the question and answer it
 once again.
-
-
